@@ -20,21 +20,18 @@ justify-content: center;
 }
 
 .site-branding > .site-title {
-background-color:rebeccapurple;
+background-color:gray;
 font-size:2em;
 }
 
 .site-branding > .site-description {
-    background-color:blanchedalmond;
+    color:red;
+    background:ghostwhite;
     font-size:1em;
     
     }
 
-.etiquette p {
-color:blue; 
 
-
-}
 .content-area{
 background-color:black;
 }
@@ -43,23 +40,19 @@ p{
 color:white;
 
 }
-
-.site-header{
-background-color:black;
-
-
-}
-
 .entry-title{
 color:white;
 
 }
 
-.site-footer{
+.site{
 background-color:black;
 
 }
 
+.liste{
+color:white;
+}
 .widget-title{
 color:white;
 }
