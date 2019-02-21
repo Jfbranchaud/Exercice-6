@@ -31,6 +31,7 @@ font-size:2em;
     }
 
 .etiquette p {
+color:blue; 
 
 
 }
@@ -41,10 +42,24 @@ background-color:black;
 p{
 color:white;
 
-
 }
 
 .site-header{
 background-color:black;
 
+
+}
+
+.entry-title{
+color:white;
+
+}
+
+.site-footer{
+background-color:black;
+
+}
+
+.widget-title{
+color:white;
 }
